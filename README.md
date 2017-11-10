@@ -1,2 +1,2 @@
 # phpdev
-Base development repository using Docker, PHP, Apache and MySQL
+Simple CRUD php application
